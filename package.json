@@ -1,6 +1,6 @@
 {
-  "name": "djs-next",
-  "version": "0.0.1",
+  "name": "@dbatnext/djs-next",
+  "version": "0.0.2",
   "description": "A framework package for discord.js",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,7 +13,7 @@
     }
   },
   "bin": {
-    "djs-next": "./dist/cli.js"
+    "djs-next": "./bin/create-djs-next.js"
   },
   "scripts": {
     "build": "tsup",
