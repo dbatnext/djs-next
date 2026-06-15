@@ -64,10 +64,9 @@ const client = new DJSNextClient({
   }
 });
 
-client.enableHMR();
 client.enableDevTools('dnxt'); // Enable 'dnxt' prefix dev commands
 client.start(process.env.DISCORD_TOKEN);
-\`;
+`;
 
 const indexPath = path.join(projectDir, 'index.js');
 if (!fs.existsSync(indexPath)) {

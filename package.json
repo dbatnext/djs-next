@@ -1,6 +1,6 @@
 {
   "name": "djs-next",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A framework package for discord.js",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
