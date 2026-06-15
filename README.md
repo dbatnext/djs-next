@@ -5,7 +5,7 @@
   <p>A hyper-modern, production-ready framework for Discord.js featuring file-based routing, native DNXT developer tools, Hot Module Replacement (HMR), and built-in safety nets.</p>
 
   <p>
-    <b>📖 Official Documentation: <a href="https://dnext.vercel.app/djs-next">dnext.vercel.app/djs-next</a></b>
+    <b>📖 Official Documentation: <a href="https://discordnext.vercel.app/djs-next">discordnext.vercel.app/djs-next</a></b>
   </p>
 
   [![npm version](https://img.shields.io/npm/v/djs-next.svg?style=flat-square)](https://www.npmjs.org/package/djs-next)
