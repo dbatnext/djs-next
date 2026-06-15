@@ -6,5 +6,6 @@ export default defineConfig({
   dts: true, // Generate declaration file (.d.ts)
   splitting: false,
   sourcemap: true,
+  target: 'es2022',
   clean: true,
 });

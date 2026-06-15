@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://dnext.vercel.app/logo.png" alt="djs-next logo" width="300" />
+  <img src="https://raw.githubusercontent.com/dbatnext/djs-next/main/assets/djs-next.png" alt="djs-next logo" width="300" />
   <h1>djs-next</h1>
   <p><b>Discord Bots at Next.</b></p>
   <p>A hyper-modern, production-ready framework for Discord.js featuring file-based routing, native DNXT developer tools, Hot Module Replacement (HMR), and built-in safety nets.</p>
 
   <p>
-    <b>Open Source Repositories:</b><br/>
-    📦 Package: <a href="https://github.com/dbatnext/djs-next">dbatnext/djs-next</a><br/>
-    🌐 Website: <a href="https://github.com/dbatnext/discord-next-docs">dbatnext/discord-next-docs</a>
+    <b>📖 Official Documentation: <a href="https://dnext.vercel.app/djs-next">dnext.vercel.app/djs-next</a></b><br/><br/>
+    📦 Source Code: <a href="https://github.com/dbatnext/djs-next">dbatnext/djs-next</a><br/>
+    🌐 Website Repo: <a href="https://github.com/dbatnext/discord-next-docs">dbatnext/discord-next-docs</a>
   </p>
 
   [![npm version](https://img.shields.io/npm/v/djs-next.svg?style=flat-square)](https://www.npmjs.org/package/djs-next)
